@@ -1,4 +1,3 @@
-# v2ray
 #!/bin/bash
 # v2ray一键安装脚本
 # Author: hijk<https://hijk.art>
